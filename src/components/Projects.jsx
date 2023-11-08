@@ -2,7 +2,7 @@ import React from "react";
 
 const Projects = () => {
   return (
-    <div className="w-full text-gray-400 bg-[#0a192f]">
+    <div name="projects" className="w-full text-gray-400 bg-[#0a192f]">
       <div className=" max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className=" pb-8">
           <p className=" inline text-4xl font-bold border-b-4 border-pink-600 text-gray-400">
