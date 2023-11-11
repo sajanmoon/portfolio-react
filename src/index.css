@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Indie+Flower&family=Lobster&family=Montserrat:wght@100;800&family=Poppins:wght@100&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&family=Roboto:ital,wght@0,100;0,300;1,100;1,300&family=Ubuntu:wght@300&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,6 +10,9 @@
   li {
     @apply px-4;
     @apply cursor-pointer;
+  }
+  html {
+    font-family: "Raleway", sans-serif;
   }
 }
 
