@@ -17,7 +17,7 @@ const Home = () => {
           quam, nulla pariatur nihil maiores quas adipisci rem, ducimus
           excepturi quibusdam vel!
         </p>
-        <div>
+        <div className=" flex gap-4">
           <Link to="projects" smooth={true} duration={500}>
             <button className=" text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-400 hover:border-pink-400">
               View Work
@@ -26,6 +26,14 @@ const Home = () => {
               </span>
             </button>
           </Link>
+          <a
+            href="https://drive.google.com/file/d/1TAWsKFemciNBOVhj1TMJOoZUAAQViJ1a/view?usp=sharing"
+            target="_blank"
+          >
+            <button className=" text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-400 hover:border-pink-400">
+              Resume
+            </button>
+          </a>
         </div>
       </div>
     </div>
