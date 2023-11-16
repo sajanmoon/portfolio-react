@@ -20,7 +20,7 @@ const Home = () => {
         <div className=" flex gap-4">
           <Link to="projects" smooth={true} duration={500}>
             <button className=" text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-400 hover:border-pink-400">
-              View Work
+              View Project
               <span className=" group-hover:rotate-90 duration-200">
                 <HiArrowNarrowRight className=" ml-2" />
               </span>
