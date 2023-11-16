@@ -22,10 +22,10 @@ const About = () => {
           </div>
           <div className=" pt-9 font-Playpen text-lg">
             <p>
-              I am a skilled web designer with 6 months of experience in the
-              industry. My passion lies in creating captivating website designs
-              and implementing them through frontend development. I take pride
-              in staying up-to-date with current design trends and leveraging my
+              I am a skilled web designer with 6 months of experience. My
+              passion lies in creating captivating website designs and
+              implementing them through frontend development. I take pride in
+              staying up-to-date with current design trends and leveraging my
               creativity to produce visually appealing and user-friendly
               websites. Throughout my career, I have developed a deep
               understanding of user experience (UX) and user interface (UI)
