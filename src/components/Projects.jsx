@@ -2,7 +2,7 @@ import React from "react";
 
 const ProjectGrid = () => {
   return (
-    <div name="projects" className="w-full text-gray-400 bg-[#0a192f] pb-72">
+    <div name="projects" className="w-full text-gray-400 bg-black pb-72">
       <div className=" max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full pb-11">
         <div>
           <p className=" text-4xl font-bold inline border-b-4 border-pink-600">

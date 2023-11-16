@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div name="about" className=" w-full bg-[#0a192f] text-gray-400">
+    <div name="about" className=" w-full bg-black text-gray-400">
       <div className=" flex flex-col justify-center items-center w-full h-full">
         <div className=" max-w-[1000px] w-full grid grid-cols-2 gap-8">
           <div className=" sm:text-right pb-8 pl-4 mt-8">
@@ -20,7 +20,7 @@ const About = () => {
               alt=""
             />
           </div>
-          <div className=" pt-9">
+          <div className=" pt-9 font-Playpen text-lg">
             <p>
               I am a skilled web designer with 6 months of experience in the
               industry. My passion lies in creating captivating website designs
@@ -33,7 +33,7 @@ const About = () => {
               strive to create intuitive and seamless browsing experiences. I
               believe that a well-designed website should not only look visually
               appealing but also provide a smooth and enjoyable interaction for
-              visitors. 
+              visitors.
             </p>
           </div>
         </div>
