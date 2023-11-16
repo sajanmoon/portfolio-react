@@ -12,10 +12,10 @@ const Home = () => {
           I'm a frontend developer
         </h2>
         <p className="text-gray-500 py-5 max-w-[700px]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          quam laudantium eligendi sint? Fuga dolorem obcaecati nostrum eaque
-          quam, nulla pariatur nihil maiores quas adipisci rem, ducimus
-          excepturi quibusdam vel!
+          As a frontend React developer, I have a passion for creating intuitive
+          and engaging user experiences using modern web technologies. I have
+          experience building complex and responsive user interfaces using
+          React.js and Redux, as well as HTML, CSS, and JavaScript.
         </p>
         <div className=" flex gap-4">
           <Link to="projects" smooth={true} duration={500}>

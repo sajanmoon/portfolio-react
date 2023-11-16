@@ -2,14 +2,14 @@ import React from "react";
 
 const Skills = () => {
   return (
-    <div name="skills" className=" w-full bg-[#0a192f] text-gray-400 md:pb-56">
+    <div name="skills" className=" w-full bg-[#0a192f] text-gray-400  md:pb-20">
       {/* Container  */}
       <div className=" max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
-        <div>
+        <div className=" mt-14">
           <p className=" text-4xl font-bold inline border-b-4 border-pink-600">
             SKILLS
           </p>
-          <p className=" py-4"> Lorem ipsum dolor sit amet.</p>
+          <p className=" py-4"> This are the technologies i have work with</p>
         </div>
       </div>
       <div className=" w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-8 md:px-48">
