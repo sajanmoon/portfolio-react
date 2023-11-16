@@ -13,89 +13,101 @@ const ProjectGrid = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6  md:mx-16">
         {/* Repeat this block for each project */}
-        <div className="bg-gray-300 p-2 rounded-md shadow-md hover:bg-gray-200">
+        <div className="bg-gray-300 p-2 rounded-md shadow-md ">
           <img
-            src="work/workImg.jpeg"
+            src="images/project1.png"
             alt="Project Thumbnail"
             className="w-full h-48 object-cover mb-4 rounded-md"
           />
-          <h3 className="text-xl font-semibold mb-2">Project Title</h3>
-          <p className="text-gray-600 mb-4">Project description goes here...</p>
+          <h3 className="text-black text-xl font-semibold mb-2">
+            GADGETHUB - E-COMMERCE PLATFORM
+          </h3>
+          <p className="text-gray-600 mb-4">
+            Gadgethub is an e-commerce platform designed specifically for gadget
+            enthusiasts.
+          </p>
           <div className="flex justify-between items-center">
-            <button>
+            <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
               <a
-                href="https://github.com/sajanmoon"
+                href="https://github.com/sajanmoon/ECommerce-WebApp"
                 target="_blank"
                 className="text-blue-500 hover:underline"
               >
-                View Details
+                GitHub
               </a>
             </button>
-            <button>
+            <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
               <a
-                href="https://github.com/sajanmoon"
+                href="https://ecommercewebappsm.netlify.app/"
                 target="_blank"
                 className="text-blue-500 hover:underline"
               >
-                View Details
+                Live
               </a>
             </button>
           </div>
         </div>
-        <div className="bg-gray-300 p-2 rounded-md shadow-md">
+        <div className="bg-gray-300 p-2 rounded-md shadow-md ">
           <img
-            src="work/workImg.jpeg"
+            src="images/project2.png"
             alt="Project Thumbnail"
             className="w-full h-48 object-cover mb-4 rounded-md"
           />
-          <h3 className="text-xl font-semibold mb-2">Project Title</h3>
-          <p className="text-gray-600 mb-4">Project description goes here...</p>
+          <h3 className=" text-black text-xl font-semibold mb-2">
+            MOVIE SEARCHING APP
+          </h3>
+          <p className="text-gray-600 mb-4">
+            MoviePremi is a dynamic and user-friendly movie searching App.
+          </p>
           <div className="flex justify-between items-center">
-            <button>
+            <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
               <a
-                href="https://github.com/sajanmoon"
+                href="https://github.com/sajanmoon/MovieSearchingApp"
                 target="_blank"
                 className="text-blue-500 hover:underline"
               >
-                View Details
+                GitHub
               </a>
             </button>
-            <button>
+            <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
               <a
-                href="https://github.com/sajanmoon"
+                href="https://moviepremi.netlify.app/"
                 target="_blank"
                 className="text-blue-500 hover:underline"
               >
-                View Details
+                Live
               </a>
             </button>
           </div>
         </div>
-        <div className="bg-gray-300 p-2 rounded-md shadow-md">
+        <div className="bg-gray-300 p-2 rounded-md shadow-md ">
           <img
-            src="work/workImg.jpeg"
+            src="images/project3.png"
             alt="Project Thumbnail"
             className="w-full h-48 object-cover mb-4 rounded-md"
           />
-          <h3 className="text-xl font-semibold mb-2">Project Title</h3>
-          <p className="text-gray-600 mb-4">Project description goes here...</p>
+          <h3 className="text-black text-xl font-semibold mb-2">WEATHER APP</h3>
+          <p className="text-gray-600 mb-4">
+            Weather app that allows usersto search for weather conditions
+            worldwide.
+          </p>
           <div className="flex justify-between items-center">
-            <button>
+            <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
               <a
-                href="https://github.com/sajanmoon"
+                href="https://github.com/sajanmoon/WeatherApp"
                 target="_blank"
                 className="text-blue-500 hover:underline"
               >
-                View Details
+                Github
               </a>
             </button>
-            <button>
+            <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
               <a
-                href="https://github.com/sajanmoon"
+                href="https://weatherappsajan.netlify.app/"
                 target="_blank"
                 className="text-blue-500 hover:underline"
               >
-                View Details
+                Live
               </a>
             </button>
           </div>

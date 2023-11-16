@@ -9,7 +9,7 @@ const Contact = () => {
       >
         <div className=" pb-8">
           <p className=" text-4xl font-bold inline border-b-4 border-pink-600 text-gray-400">
-            Contact
+            CONTACT
           </p>
         </div>
         <input
