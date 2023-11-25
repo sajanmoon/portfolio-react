@@ -5,25 +5,33 @@ const Skills = () => {
     <div name="skills" className=" w-full bg-black text-gray-400  md:pb-20">
       {/* Container  */}
       <div className=" max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
-        <div className=" mt-14">
+        <div className=" mt-16">
           <p className=" text-4xl font-bold inline border-b-4 border-pink-600">
             SKILLS
           </p>
           <p className=" py-4"> This are the technologies i have work with</p>
         </div>
       </div>
-      <div className=" w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-8 md:px-48">
+      <div className=" w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8 md:px-48">
         <div className=" hover:scale-110 duration-300">
           <img className=" w-20 mx-auto" src="images/react.png" alt="" />
           <p className=" my-4">REACT</p>
+        </div>
+        <div className=" hover:scale-110 duration-300">
+          <img className=" w-20 mx-auto" src="images/tailwind.png" alt="" />
+          <p className=" my-4">TAILWIND</p>
+        </div>
+        <div className=" hover:scale-110 duration-300">
+          <img className=" w-20 mx-auto" src="images/redux.png" alt="" />
+          <p className=" my-4">REDUX</p>
         </div>
         <div className=" hover:scale-110 duration-300">
           <img className=" w-20 mx-auto" src="images/javascript.png" alt="" />
           <p className=" my-4">JAVASCRIPT</p>
         </div>
         <div className=" hover:scale-110 duration-300">
-          <img className=" w-20 mx-auto" src="images/tailwind.png" alt="" />
-          <p className=" my-4">TAILWIND</p>
+          <img className=" w-20 mx-auto" src="images/git.png" alt="" />
+          <p className=" my-4">GIT</p>
         </div>
         <div className=" hover:scale-110 duration-300">
           <img className=" w-20 mx-auto" src="images/github.png" alt="" />
