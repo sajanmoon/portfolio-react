@@ -11,11 +11,11 @@ const About = () => {
             </p>
           </div>
         </div>
-        <div className=" max-w-[1000px] w-full grid sm:grid-cols-2 gap- px-4">
+        <div className=" max-w-[1000px] w-full grid sm:grid-cols-2 px-4">
           <div className=" sm:text-right text-4xl font-bold">
             {/* <p>Hi,I am Sajan, nice to meet you. Please take a look around</p> */}
             <img
-              className="rounded-[50%] h-[65vh] w-[400px] border-4 border-gray-300"
+              className="rounded-[10%] h-[65vh] w-[400px] border-4 border-gray-300"
               src="https://portfoliosajanmoon.netlify.app/images/user.JPG"
               alt=""
             />
