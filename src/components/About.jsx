@@ -16,7 +16,7 @@ const About = () => {
             {/* <p>Hi,I am Sajan, nice to meet you. Please take a look around</p> */}
             <img
               className="rounded-[10%] h-[56vh] w-[350px] border-4 border-gray-300 md:h-[65vh] md:w-[400px]"
-              src="https://portfoliosajanmoon.netlify.app/images/user.JPG"
+              src="images/photo.JPG"
               alt=""
             />
           </div>
