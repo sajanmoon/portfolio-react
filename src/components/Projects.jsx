@@ -124,42 +124,7 @@ const ProjectGrid = () => {
           </div>
         </div>
         {/* *************************************************************************************** */}
-        {/* PROJECT 4 */}
-        <div className="bg-gray-300 p-2 rounded-md shadow-md ">
-          <img
-            src="images/project3.png"
-            alt="Project Thumbnail"
-            className="w-full h-48 object-cover mb-4 rounded-md"
-          />
-          <h3 className="text-black text-xl font-semibold mb-2">
-            WEATHER APP
-            <p className=" text-gray-500">REACT, TAILWIND, OPEN WEATHER API</p>
-          </h3>
-          <p className="text-gray-600 mb-4">
-            Weather app that allows usersto search for weather conditions
-            worldwide.
-          </p>
-          <div className="flex justify-between items-center">
-            <a
-              href="https://github.com/sajanmoon/WeatherApp"
-              target="_blank"
-              className="text-blue-500 hover:underline"
-            >
-              <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
-                Github
-              </button>
-            </a>
-            <a
-              href="https://weatherappsajan.netlify.app/"
-              target="_blank"
-              className="text-blue-500 hover:underline"
-            >
-              <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
-                Live
-              </button>
-            </a>
-          </div>
-        </div>
+
         {/* *************************************************************************************** */}
       </div>
     </div>
