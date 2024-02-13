@@ -31,7 +31,7 @@ const ProjectGrid = () => {
           </p>
           <div className="flex justify-between items-center">
             <a
-              href="https://github.com/sajanmoon/ECommerce-WebApp"
+              href="https://gadgethubstore.netlify.app/"
               target="_blank"
               className="text-blue-500 hover:underline"
             >
@@ -123,8 +123,6 @@ const ProjectGrid = () => {
             </a>
           </div>
         </div>
-        {/* *************************************************************************************** */}
-
         {/* *************************************************************************************** */}
       </div>
     </div>
