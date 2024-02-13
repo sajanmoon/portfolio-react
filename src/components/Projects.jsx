@@ -35,7 +35,7 @@ const ProjectGrid = () => {
               target="_blank"
               className="text-blue-500 hover:underline"
             >
-              <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
+              <button className=" border-4 font-bold px-6 py-3 my-2 hover:bg-white">
                 GitHub
               </button>
             </a>
@@ -44,7 +44,7 @@ const ProjectGrid = () => {
               target="_blank"
               className="text-blue-500 hover:underline"
             >
-              <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
+              <button className=" border-4 font-bold px-6 py-3 my-2 hover:bg-white">
                 Live
               </button>
             </a>
@@ -72,7 +72,7 @@ const ProjectGrid = () => {
               target="_blank"
               className="text-blue-500 hover:underline"
             >
-              <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
+              <button className=" border-4 font-bold px-6 py-3 my-2 hover:bg-white">
                 GitHub
               </button>
             </a>
@@ -81,7 +81,7 @@ const ProjectGrid = () => {
               target="_blank"
               className="text-blue-500 hover:underline"
             >
-              <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
+              <button className=" border-4 font-bold px-6 py-3 my-2 hover:bg-white">
                 Live
               </button>
             </a>
@@ -108,7 +108,7 @@ const ProjectGrid = () => {
               target="_blank"
               className="text-blue-500 hover:underline"
             >
-              <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
+              <button className=" border-4 font-bold px-6 py-3 my-2 hover:bg-white">
                 GitHub
               </button>
             </a>
@@ -117,7 +117,7 @@ const ProjectGrid = () => {
               target="_blank"
               className="text-blue-500 hover:underline"
             >
-              <button className=" border-4 px-6 py-3 my-2 hover:bg-white">
+              <button className=" border-4 font-bold px-6 py-3 my-2 hover:bg-white">
                 Live
               </button>
             </a>
