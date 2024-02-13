@@ -31,7 +31,7 @@ const ProjectGrid = () => {
           </p>
           <div className="flex justify-between items-center">
             <a
-              href="https://gadgethubstore.netlify.app/"
+              href="https://github.com/sajanmoon/ECommWebApp"
               target="_blank"
               className="text-blue-500 hover:underline"
             >
@@ -40,7 +40,7 @@ const ProjectGrid = () => {
               </button>
             </a>
             <a
-              href="https://ecommercewebappsm.netlify.app/"
+              href="https://gadgethubstore.netlify.app/"
               target="_blank"
               className="text-blue-500 hover:underline"
             >
