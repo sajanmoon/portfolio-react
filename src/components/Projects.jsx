@@ -59,16 +59,16 @@ const ProjectGrid = () => {
             className="w-full h-48 object-cover mb-4 rounded-md"
           />
           <h3 className="text-black text-xl font-semibold mb-2">
-            JOBPORTAL JOB SEARCHING APP
-            <p className=" text-gray-500">REACT, TAILWIND, FIREBASE</p>
+            FOOD EXPRESS - FOOD DELIVERY APP
+            <p className=" text-gray-500">REACT, REDUX, TAILWIND</p>
           </h3>
           <p className="text-gray-600 mb-4">
-            Job portal app, enabling usersto effortlessly search for employment
-            opportunitiestailored to their preferences.
+            Food express app, allow usersto browse through variousrestuarant
+            menu acrossthe city
           </p>
           <div className="flex justify-between items-center">
             <a
-              href="https://github.com/sajanmoon/JobPortal"
+              href="https://github.com/sajanmoon/Episode-1---Inception"
               target="_blank"
               className="text-blue-500 hover:underline"
             >
@@ -77,7 +77,7 @@ const ProjectGrid = () => {
               </button>
             </a>
             <a
-              href="https://jobportalsm.netlify.app/"
+              href="https://foodexpresssm.netlify.app/"
               target="_blank"
               className="text-blue-500 hover:underline"
             >
