@@ -22,9 +22,22 @@ const Skills = () => {
           <p className=" my-4">JAVASCRIPT</p>
         </div>
         <div className=" hover:scale-110 duration-300">
+          <img className=" w-20 mx-auto" src="images/mongodb.png" alt="" />
+          <p className=" my-4">MONGODB</p>
+        </div>
+        <div className=" hover:scale-110 duration-300">
+          <img className=" w-20 mx-auto" src="images/nodejs.png" alt="" />
+          <p className=" my-4">NODEJS</p>
+        </div>
+        <div className=" hover:scale-110 duration-300">
+          <img className=" w-20 mx-auto" src="images/express.png" alt="" />
+          <p className=" my-4">EXPRESS</p>
+        </div>
+        <div className=" hover:scale-110 duration-300">
           <img className=" w-20 mx-auto" src="images/redux.png" alt="" />
           <p className=" my-4">REDUX</p>
         </div>
+
         <div className=" hover:scale-110 duration-300">
           <img className=" w-20 mx-auto" src="images/tailwind.png" alt="" />
           <p className=" my-4">TAILWIND</p>

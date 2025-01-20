@@ -17,6 +17,43 @@ const ProjectGrid = () => {
         {/* PROJECT 1 */}
         <div className="bg-gray-300 p-2 rounded-md shadow-md ">
           <img
+            src="images/project01.png"
+            alt="Project Thumbnail"
+            className="w-full h-48 object-cover mb-4 rounded-md"
+          />
+          <h3 className="text-black text-xl font-semibold mb-2">
+            DEV SOCIAL
+            <p className=" text-gray-500">REACT,EXPRESS,NODEJS,MONGODB,REDUX</p>
+          </h3>
+          <p className="text-gray-600 mb-4">
+            Dev Social is a professional networking platform designed to connect
+            developers within the tech community.
+          </p>
+          <div className="flex justify-between items-center">
+            <a
+              href="https://github.com/sajanmoon/DevSocial_MERN_Frontend"
+              target="_blank"
+              className="text-blue-500 hover:underline"
+            >
+              <button className=" border-4 font-bold px-6 py-3 my-2 hover:bg-white">
+                GitHub
+              </button>
+            </a>
+            <a
+              href="https://devtinder-xi.vercel.app/"
+              target="_blank"
+              className="text-blue-500 hover:underline"
+            >
+              <button className=" border-4 font-bold px-6 py-3 my-2 hover:bg-white">
+                Live
+              </button>
+            </a>
+          </div>
+        </div>
+        {/* *************************************************************************************** */}
+        {/* PROJECT 1 */}
+        <div className="bg-gray-300 p-2 rounded-md shadow-md ">
+          <img
             src="images/project1.png"
             alt="Project Thumbnail"
             className="w-full h-48 object-cover mb-4 rounded-md"
