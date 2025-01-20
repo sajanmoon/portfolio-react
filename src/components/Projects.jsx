@@ -100,7 +100,7 @@ const ProjectGrid = () => {
             <p className=" text-gray-500">REACT, REDUX, TAILWIND</p>
           </h3>
           <p className="text-gray-600 mb-4">
-            Food express app, allow usersto browse through variousrestuarant
+            Food express app, allow usersto browse through various restuarant
             menu acrossthe city
           </p>
           <div className="flex justify-between items-center">
